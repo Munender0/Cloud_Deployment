@@ -99,9 +99,9 @@ A private cloud is a dedicated cloud infrastructure used exclusively by a single
 ### 3. Hybrid Cloud (Public on Private Cloud)
 A hybrid cloud combines public and private cloud environments, allowing businesses to maintain critical workloads on a private cloud while utilizing public cloud resources for scaling.
 **Deployment:**
-    - Certain services are deployed on a private cloud, while others are hosted on a public cloud.
-    - Often involves connecting the private cloud to a public cloud via VPN or dedicated connection.
-    - This model is ideal for businesses that require flexibility, scalability, and enhanced security.
+- Certain services are deployed on a private cloud, while others are hosted on a public cloud.
+- Often involves connecting the private cloud to a public cloud via VPN or dedicated connection.
+- This model is ideal for businesses that require flexibility, scalability, and enhanced security.
     
 **Advantages:**
 - Flexibility to run workloads in the optimal environment.
@@ -119,9 +119,9 @@ A hybrid cloud combines public and private cloud environments, allowing business
 In this model, a private cloud is hosted within a public cloud provider’s environment, offering dedicated resources with managed infrastructure.
 
 **Deployment:**
-    - Portions of the private cloud environment are deployed inside a public cloud (e.g., VMware on AWS).
-    - Often used for migrating existing workloads to the cloud without refactoring.
-    - This model is ideal for businesses that want to leverage the scalability of the public cloud while maintaining control over their infrastructure.
+- Portions of the private cloud environment are deployed inside a public cloud (e.g., VMware on AWS).
+- Often used for migrating existing workloads to the cloud without refactoring.
+- This model is ideal for businesses that want to leverage the scalability of the public cloud while maintaining control over their infrastructure.
 
 **Advantages:**
 - Enables seamless cloud migration.
@@ -139,9 +139,9 @@ In this model, a private cloud is hosted within a public cloud provider’s envi
 This strategy involves utilizing multiple private cloud environments across different vendors for redundancy, compliance, and disaster recovery.
 
 **Deployment:**
-    - A dedicated private cloud environment is hosted by a third-party provider.
-    - Offers the benefits of a private cloud with managed services.
-    - This model is ideal for businesses that require high security, compliance, and redundancy.
+- A dedicated private cloud environment is hosted by a third-party provider.
+- Offers the benefits of a private cloud with managed services.
+- This model is ideal for businesses that require high security, compliance, and redundancy.
 
 **Advantages:**
 - Enhanced security and compliance.
@@ -159,9 +159,9 @@ This strategy involves utilizing multiple private cloud environments across diff
 This approach involves using multiple public cloud providers to optimize costs, improve reliability, and avoid vendor lock-in.
 
 **Deployment:**
-    - Utilizes multiple public cloud providers.
-    - Services are distributed across different clouds.
-    - This model is ideal for businesses that want to avoid vendor lock-in and leverage the best services from multiple providers.
+- Utilizes multiple public cloud providers.
+- Services are distributed across different clouds.
+- This model is ideal for businesses that want to avoid vendor lock-in and leverage the best services from multiple providers.
     
 **Advantages:**
 - Eliminates dependency on a single cloud provider.
@@ -179,9 +179,9 @@ This approach involves using multiple public cloud providers to optimize costs, 
 This model deploys OpenStack services as containerized applications within Kubernetes clusters, enhancing scalability and management.
 
 **Deployment:**
-    - OpenStack is deployed on Kubernetes, which manages the control plane and services.
-    - OpenStack provides IaaS, while Kubernetes manages the services.
-    - This model is ideal for businesses that want to modernize their OpenStack
+- OpenStack is deployed on Kubernetes, which manages the control plane and services.
+- OpenStack provides IaaS, while Kubernetes manages the services.
+- This model is ideal for businesses that want to modernize their OpenStack
 
 **Advantages:**
 - Improves OpenStack scalability and resilience.
@@ -199,9 +199,9 @@ This model deploys OpenStack services as containerized applications within Kuber
 This model runs Kubernetes clusters on OpenStack infrastructure, combining OpenStack’s infrastructure management with Kubernetes’ container orchestration.
 
 **Deployment:**
-    - Kubernetes is deployed on OpenStack’s infrastructure.
-    - OpenStack provides virtual machines and storage for Kubernetes.
-    - This model is ideal for businesses that want to leverage OpenStack’s infrastructure capabilities while using Kubernetes for containerized workloads.
+- Kubernetes is deployed on OpenStack’s infrastructure.
+- OpenStack provides virtual machines and storage for Kubernetes.
+- This model is ideal for businesses that want to leverage OpenStack’s infrastructure capabilities while using Kubernetes for containerized workloads.
 
 **Advantages:**
 - Provides a flexible and scalable platform for containerized applications.
