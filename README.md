@@ -98,6 +98,7 @@ A private cloud is a dedicated cloud infrastructure used exclusively by a single
 
 ### 3. Hybrid Cloud (Public on Private Cloud)
 A hybrid cloud combines public and private cloud environments, allowing businesses to maintain critical workloads on a private cloud while utilizing public cloud resources for scaling.
+
 **Deployment:**
 - Certain services are deployed on a private cloud, while others are hosted on a public cloud.
 - Often involves connecting the private cloud to a public cloud via VPN or dedicated connection.
