@@ -67,6 +67,7 @@ A private cloud is a dedicated cloud infrastructure used exclusively by a single
 * **Examples:**
     * **Web App on EC2:**
         * A company hosts a web application on AWS EC2. They use EC2 instances for servers, RDS for a database, and S3 for file storage.
+          
 **Cost:**
 - Pay-as-you-go pricing.
 - AWS EC2 instances start at ~$0.0116/hour.
@@ -90,6 +91,7 @@ A private cloud is a dedicated cloud infrastructure used exclusively by a single
         * A company deploys an ERP system on an OpenStack private cloud, using OpenStack services for compute, storage, and networking.
     * **Database in Private Data Center:**
         * A financial institution hosts its database on dedicated servers in a private data center, focusing on security and performance.
+          
 **Cost:**
 - Initial setup costs can be high (ranging from thousands to millions of dollars).
 - Ongoing maintenance costs include staffing and hardware upgrades.
