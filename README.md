@@ -23,6 +23,7 @@ Cloud computing is primarily categorized into three models:
 ## Types of Cloud Deployment
 ### 1. Public Cloud
 Public cloud refers to a computing model where resources like servers and storage are owned and managed by third-party cloud providers such as AWS, Google Cloud, and Microsoft Azure. These resources are shared among multiple users over the internet.
+- Examples of public cloud usage include Netflix, Gmail, and Dropbox.
 
 **Advantages:**
 - High scalability, allowing for resource adjustments based on demand.
